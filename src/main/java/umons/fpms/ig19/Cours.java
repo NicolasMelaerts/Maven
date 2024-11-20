@@ -14,7 +14,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author noffa
+ * @author noffa Nicolas 
  */
 public class Cours {
     private String intitule;
